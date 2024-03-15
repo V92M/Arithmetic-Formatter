@@ -1,4 +1,4 @@
-#Arithmetic Arranger
+Arithmetic Arranger
 This Python script arranges simple arithmetic problems for easy visual comparison.
 
 Functionality
@@ -17,3 +17,13 @@ The function then arranges the problems for display. It creates four lines of ou
 If the show_answers parameter is set to True, the function also calculates and displays the answers.
 
 Here is a sample usage of the function:
+
+problems = ["32 + 698", "3801 - 2", "45 + 43", "123 + 49"]
+print(arithmetic_arranger(problems, True))
+
+This will output:
+
+   32      3801      45      123
++ 698    -    2    + 43    +  49
+-----    ------    ----    -----
+  730      3799      88      172
