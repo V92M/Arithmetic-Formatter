@@ -20,6 +20,7 @@ If the show_answers parameter is set to True, the function also calculates and d
 Here is a sample usage of the function:
 
 problems = ["32 + 698", "3801 - 2", "45 + 43", "123 + 49"]
+
 print(arithmetic_arranger(problems, True))
 
 This will output:
