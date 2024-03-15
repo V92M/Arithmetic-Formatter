@@ -23,8 +23,4 @@ problems = ["32 + 698", "3801 - 2", "45 + 43", "123 + 49"]
 print(arithmetic_arranger(problems, True))
 
 This will output:
-
-   32      3801      45      123
-+ 698    -    2    + 43    +  49
------    ------    ----    -----
-  730      3799      88      172
+![image](https://github.com/V92M/Arithmetic-Formatter/assets/93095246/71c20c40-3967-414f-abfc-dd8e34a5f132)
