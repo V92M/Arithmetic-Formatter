@@ -2,7 +2,7 @@
 
 This Python script arranges simple arithmetic problems for easy visual comparison.
 
-Functionality
+# Functionality
 The main function, arithmetic_arranger(problems, show_answers=False), takes in a list of arithmetic problems and an optional boolean to indicate whether the answers should be displayed.
 
 The function performs the following checks:
