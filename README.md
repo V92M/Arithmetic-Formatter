@@ -1,4 +1,4 @@
-##Arithmetic Arranger
+# Arithmetic Arranger
 
 This Python script arranges simple arithmetic problems for easy visual comparison.
 
